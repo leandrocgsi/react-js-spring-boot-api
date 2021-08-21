@@ -1,4 +1,4 @@
-# [React JS consumindo REST API RESTful em Spring Boot Java 16](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
+# [React JS consumindo REST API's RESTful em Spring Boot 2.6 e Java 16](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
 ## [Related Courses](https://pub.erudio.com.br/meus-cursos)
 
