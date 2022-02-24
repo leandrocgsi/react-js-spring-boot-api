@@ -1,6 +1,6 @@
 # [React JS consumindo REST API's RESTful em Spring Boot 2.6 e Java 16](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/react_.net6.png?raw=true "React JS consumindo REST API RESTful em ASP.NET Core .NET 6")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-asp-dot-net-core-6-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/react_java.png "React JS consumindo REST API RESTful em Spring Boot Java 16")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
 ## [Related Courses](https://pub.erudio.com.br/meus-cursos)
 
