@@ -4,7 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/react-js-spring-boot-api)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/react-js-spring-boot-api)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
-[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/react-js-spring-boot-api.svg)](https://hub.docker.com/repository/docker/leandrocgsi/react-js-spring-boot-api)
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/rest-react-java-server.svg)](https://hub.docker.com/repository/docker/leandrocgsi/rest-react-java-server)
 [![Continuous Integration with GitHub, GitHub Actions and Docker Hub](https://github.com/leandrocgsi/rest-react-playground/actions/workflows/continuous-integration-java.yml/badge.svg)](https://github.com/leandrocgsi/rest-react-playground/actions/workflows/continuous-integration-java.yml)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/react-js-spring-boot-api)
 
