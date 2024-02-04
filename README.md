@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/react-js-spring-boot-api)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
 [![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/react-js-spring-boot-api.svg)](https://hub.docker.com/repository/docker/leandrocgsi/react-js-spring-boot-api)
-[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/react-js-spring-boot-api/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/react-js-spring-boot-api/actions/workflows/continuous-integration.yml)
+[![Continuous Integration with GitHub, GitHub Actions and Docker Hub](https://github.com/leandrocgsi/rest-react-playground/actions/workflows/continuous-integration-java.yml/badge.svg)](https://github.com/leandrocgsi/rest-react-playground/actions/workflows/continuous-integration-java.yml)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/react-js-spring-boot-api)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/react_java.png "React JS consumindo REST API RESTful em Spring Boot Java 16")](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
