@@ -57,6 +57,7 @@ export default function Books(){
         });
 
         setBooks([ ...books, ...response.data._embedded.bookVoes])
+
         setPage(page + 1);
     }
 
