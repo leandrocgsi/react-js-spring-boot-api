@@ -1,28 +1,32 @@
+cors:
+  originPatterns: http://localhost:3000,http://localhost:8080,https://erudio.com.br
 file:
-    upload-dir: /Code/UdemySpringBoot/UploadDir
-flyway:
-    password: admin123
-    schemas: rest_with_spring_boot_udemy
-    url: jdbc:mysql://localhost:3306/
-    user: root
+  upload-dir: /Code/UploadDir
+security:
+  jwt:
+    token:
+      secret-key: 53cr37
+      expire-length: 3600000
 spring:
-    datasource:
-        driverClassName: com.mysql.cj.jdbc.Driver
-        password: admin123
-        url: jdbc:mysql://localhost:3306/rest_with_spring_boot_udemy?useTimezone=true&serverTimezone=UTC
-        username: root
-    jackson:
-        default-property-inclusion: NON_NULL
-    jpa:
-        hibernate:
-            ddl-auto: update
-        properties:
-            hibernate:
-                dialect: org.hibernate.dialect.MySQL5InnoDBDialect
-        show-sql: false
-    servlet:
-        multipart:
-            enabled: true
-            file-size-threshold: 2KB
-            max-file-size: 200MB
-            max-request-size: 215MB
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/rest_with_spring_boot_erudio?useTimezone=true&serverTimezone=UTC
+    username: root
+    password: admin123
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: none
+    show-sql: false
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 2KB
+      max-file-size: 200MB
+      max-request-size: 215MB
+springdoc:
+  pathsToMatch:
+    - /auth/**
+    - /api/**/v1/**
+  swagger-ui:
+    use-root-path: true
