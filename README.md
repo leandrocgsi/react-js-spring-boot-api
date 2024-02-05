@@ -1,6 +1,5 @@
 # [React JS consumindo REST API's RESTful em Spring Boot 3.2.0 e Java 21](https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/?couponCode=GTHB_FLASH_SALE2021)
 
-
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/react-js-spring-boot-api)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/react-js-spring-boot-api)
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=ZJ4NQJXEKQ63A)
