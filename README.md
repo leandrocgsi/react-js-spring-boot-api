@@ -16,6 +16,18 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices.png?raw=true "Microservices do 0 à GCP com Spring Boot, Kubernetes e Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_kotlin.png?raw=true "Microservices do 0 à GCP com Spring Cloud, Kotlin, K8s e Docker")](https://www.udemy.com/course/microsservicos-do-0-a-gcp-c-spring-cloud-kotlin-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/kotlin_4_devs_java.png?raw=true "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android")](https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/24_TestsJava.png?raw=true "Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito")](https://www.udemy.com/course/java-unit-testing-com-java-spring-boot-3-junit-5-e-mockito/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/27_CICD_JavaAWS.png?raw=true "Java Continuous Integration and Delivery com AWS e Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-aws-e-github-actions/?couponCode=LAUNCH_CDCD_JAVA)
+
+[![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/28_CICD_JavaAzure.png?raw=true "Java Continuous Integration and Delivery with Azure and Github Actions")](https://www.udemy.com/course/java-continuous-integration-continuous-delivery-azure-e-github-actions/?couponCode=GTHB_FLASH_SALE2021)
+
+[![Image](https://raw.githubusercontent.com/leandrocgsi/RestWithSpringBootUdemy/master/Images/rest_kotlin.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot, Kotlin e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-aws-com-spring-boot-3-kotlin-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices_.net6.png?raw=true "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_a_nuvem_com_asp_net_core_e_docker.png?raw=true "REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/?couponCode=GTHB_FLASH_SALE2021)
